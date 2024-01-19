@@ -2,6 +2,6 @@
 
 My Favorite Things About CS193
 - No Exams
-- Interative Class
+- Interactive Class
 - Actually useful
 - No Boring Homework
